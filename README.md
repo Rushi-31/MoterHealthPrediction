@@ -1,4 +1,4 @@
-```
+
 # 💧 Water Pump Health Prediction System
 
 This project monitors the health of a water pump using IoT sensors and provides real-time updates through a Jetpack Compose-based mobile app. It uses ESP8266 to collect sensor data and uploads it to Firebase for storage and alert management.
@@ -75,5 +75,5 @@ This project monitors the health of a water pump using IoT sensors and provides 
 
 🧠 **Smart farming starts with smart monitoring.**
 
-```
+
 
