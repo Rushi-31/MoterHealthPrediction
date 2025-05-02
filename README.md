@@ -17,19 +17,25 @@ This project monitors the health of a water pump using IoT sensors and provides 
   - Receiving alerts
   - Editing profiles and settings
 
-## 📱 App Screenshots
 
-| Login | Sign Up | Home | Add Motor |
-|-------|---------|------|-----------|
+
+### 📱 App Screenshots
+
+| Login                           | Sign Up                          | Home                          | Add Motor                              |
+| ------------------------------- | -------------------------------- | ----------------------------- | -------------------------------------- |
 | ![Login](/GauravProj/login.png) | ![Sign Up](/GauravProj/sing.png) | ![Home](/GauravProj/home.png) | ![Add Motor](/GauravProj/addmotor.png) |
 
-| Motor List | Readings | Alerts | Profile | Settings |
-|------------|----------|--------|---------|----------|
+| Motor List                               | Readings                             | Alerts                           | Profile                             | Settings                             |
+| ---------------------------------------- | ------------------------------------ | -------------------------------- | ----------------------------------- | ------------------------------------ |
 | ![Motor List](/GauravProj/motorlist.png) | ![Readings](/GauravProj/reading.png) | ![Alerts](/GauravProj/alert.png) | ![Profile](/GauravProj/profile.png) | ![Settings](/GauravProj/setting.png) |
 
-| About |
-|-------|
-| ![About](/GauravProj/about.png) |
+#### ℹ️ About Page
+
+<p align="center">
+  <img src="/GauravProj/about.png" width="250"/>
+</p>
+
+---
 
 ## 🧰 Tech Stack
 
